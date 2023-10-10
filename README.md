@@ -1,6 +1,9 @@
-# stacked_app
+# Flutter Luvit Assignment
 
-A new Flutter project.
+This project is well structured using stacked architecture. 
+The RealTime DB data is junk and unable to load those all and show it on screen for each user. 
+The user model has been mocked for now, but all the services and APIs have been implemented.
+https://www.loom.com/share/6db9746a6d4849a5b2a1ab251a879e84
 
 ## Getting Started
 
